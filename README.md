@@ -24,7 +24,7 @@ Python 3.8+, PyTorch, gym, numpy, matplotlib
 ## Results
 ## Demo
 <video src="Lunar-Lander.mp4" controls width="600"></video>
-
+![Lunar Lander](Lunar-Lander.gif)
 
 ## License
 MIT
