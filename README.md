@@ -22,7 +22,9 @@ Python 3.8+, PyTorch, gym, numpy, matplotlib
 3. Open notebook or run training script
 
 ## Results
-(Insert plot of reward vs episodes and short note on final performance.)
+## Demo
+<video src="Lunar-Lander.mp4" controls width="600"></video>
+
 
 ## License
 MIT
